@@ -9,6 +9,8 @@
 
 .cell {
   border: 1px solid #eee; 
+  background: white;
+  transition: background-color 0.2s ease;
 }
 
 .ink { background: black; } 
